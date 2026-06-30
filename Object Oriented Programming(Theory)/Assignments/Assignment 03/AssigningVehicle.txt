@@ -1,0 +1,10 @@
+Nadeem 23
+Nadeem 21
+Nadeem 24
+Zulfiqar 19
+Zulfiqar 18
+Zulfiqar 20
+Nadeem 20
+Nadeem 19
+Zulfiqar 20
+Nadeem 18
